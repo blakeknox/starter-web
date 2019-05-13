@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ##Introduction 
 
+Welcome weary traveler.
+
 ## Purpose
 
 ## Deployment
