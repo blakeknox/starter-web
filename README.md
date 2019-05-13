@@ -8,6 +8,8 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
+Its Deployed!
+
 ## Testing
 
 Testing out git commands with branches and merging.
