@@ -10,6 +10,8 @@ This repository is for showing how Git and GitHub work
 
 ## Testing
 
+Testing out git commands with branches and merging.
+
 ### Copyright 
 
 2014 Git.Training
